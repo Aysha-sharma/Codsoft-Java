@@ -5,7 +5,7 @@ Welcome to my Java internship project portfolio! This repository showcases vario
 ## 🛠️ Technologies Used
 
 - **Java SE 8+**
-- **Vs Code**
+- **VS Code**
 - **Git & GitHub**
 - **OOP (Object-Oriented Programming)**
 
@@ -18,6 +18,15 @@ A console-based number guessing game where:
 - A random number is generated between 1 and 100.
 - User guesses until correct or max attempts are reached.
 - Supports multiple rounds and keeps track of score.
+
+### 2. 📊 Student Grade Calculator
+A console-based program that:
+- Accepts the number of subjects and marks for each subject.
+- Validates input marks (0–100).
+- Calculates total marks, average percentage, and assigns grades (A+, A, B, C, D, or F).
+- Displays a detailed **report card**.
+
+---
 
 ## 🧠 What I Learned
 
