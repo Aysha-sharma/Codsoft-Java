@@ -26,6 +26,14 @@ A console-based program that:
 - Calculates total marks, average percentage, and assigns grades (A+, A, B, C, D, or F).
 - Displays a detailed **report card**.
 
+### 3. 🏧 ATM Interface
+A console-based ATM simulation that:
+- Provides **menu options** for balance inquiry, deposit, and withdrawal.
+- Uses two classes: **BankAccount** (for storing and managing balance) and **ATM** (for user interface and operations).
+- Validates user input (e.g., prevents withdrawal beyond the account balance).
+- Displays appropriate success or failure messages for transactions.
+- Designed using **OOP principles** with modular, reusable code.
+
 ---
 
 ## 🧠 What I Learned
